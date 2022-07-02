@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on shopify projects.
+- 🔭 I’m currently working on shopify projects
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about shopify store set-ups
 
