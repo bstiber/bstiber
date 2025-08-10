@@ -8,7 +8,7 @@
 - 📈 Real-world solutions combining dashboards, cost optimization, and automation
 
 💼 Background:
-- 20+ years of results-driven experience across sales, construction, healthcare, real estate, and small business ownership
+- 20+ years of results-driven experience across SaaS, sales, construction, healthcare, real estate, and small business ownership
 - Built quoting systems, storefronts, and automations using HTML, CSS, JS, and no-code tools
 - Worked with mid-sized companies to deliver product management training and workflow improvements
 
