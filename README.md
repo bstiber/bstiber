@@ -1,4 +1,3 @@
-
 # Hi there 👋 I'm Bill Stiber
 
 💡 **I help businesses turn their data into revenue-driving insights.**
@@ -21,8 +20,9 @@
 - 📊 Advanced analytics with SQL, Excel, and Tableau
 
 📫 **Ready to drive results for your team**: [billstiber@gmail.com](mailto:billstiber@gmail.com)  
-🌐 **Portfolio**: [(https://billstiber.com/)]
+🌐 **Portfolio**: [billstiber.com](https://billstiber.com/)  
+💼 **LinkedIn**: [linkedin.com/in/billstiber](https://www.linkedin.com/in/billstiber/)
 
 💬 **Let's connect if you need someone who combines business insight with technical execution to solve real problems.**
 
-*Former U.S. Navy Hospital Corpsman and author of "Tiny Victories" — I bring discipline, curiosity, and a results-driven mindset
+*Former U.S. Navy Hospital Corpsman and author of "Tiny Victories" — I bring discipline, curiosity, and a results-driven mindset to every challenge.*
