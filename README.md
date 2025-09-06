@@ -21,7 +21,7 @@
 - 📊 Advanced analytics with SQL, Excel, and Tableau
 
 📫 **Ready to drive results for your team**: [billstiber@gmail.com](mailto:billstiber@gmail.com)  
-🌐 **Portfolio**: [www.billstiber.com](https://www.billstiber.com)
+🌐 **Portfolio**: [(https://billstiber.com/)]
 
 💬 **Let's connect if you need someone who combines business insight with technical execution to solve real problems.**
 
